@@ -59,7 +59,7 @@ nav ul li{
     /* border: 1px solid black; */
 }
 .myslide{
-    background-image: url("/images/myslide.jpg");
+    background-image: url("images/myslide.jpg");
     overflow: hidden;
 }
 .insideImage{
